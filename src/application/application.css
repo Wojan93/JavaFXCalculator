@@ -1,0 +1,50 @@
+.PaneClass {
+	-fx-background-color: #fff2df;
+}
+.EqualClass{
+	-fx-background-color:#82b74b;
+	-fx-border-radius: 5%;
+	-fx-border-color: black;
+}
+.Digit {
+	-fx-background-color: #50394c;
+	-fx-color:Black;
+	-fx-font-size: 24px;
+	-fx-border-radius: 5%;
+	-fx-font-family: Times, serif;
+	-fx-border-color: #f1e3dd;
+	-fx-border-width: 1.5px;
+}
+.Delete {
+	-fx-background-color: #ff6f69;
+	-fx-color:Black;
+	-fx-font-size: 24px;
+	-fx-border-radius: 5%;
+	-fx-font-family: Times, serif;
+	-fx-border-color: #f1e3dd;
+	-fx-border-width: 1.5px;
+}
+.Operations {
+	-fx-background-color: #622569;
+	-fx-color:Black;
+	-fx-font-size: 24px;
+	-fx-border-radius: 5%;
+	-fx-font-family: Times, serif;
+	-fx-border-color: #f1e3dd;
+	-fx-border-width: 1.5px;
+}
+.button:pressed {
+	-fx-border-radius: 20%;
+}
+.button:hover {
+	-fx-blend-mode:color-burn;
+	-fx-text-fill:black;
+}
+
+.TextField {
+	-fx-text-fill:white;
+	-fx-background-color: #f2ae72;
+	-fx-border-color: black;
+	-fx-font-size: 24px;
+	-fx-font-weight: bold;
+}
